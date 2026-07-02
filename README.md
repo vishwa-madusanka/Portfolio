@@ -1,4 +1,4 @@
-# 🌌 Vishwa Wijekoon — Personal Portfolio
+# 🌌 Vishwa Madusanka — Personal Portfolio
 
 > *"I build distributed systems, ship mobile apps, and play the violin."*
 > — 3rd-year Software Engineering undergrad at SLIIT
@@ -46,7 +46,7 @@
 
 ## 🚀 Live Demo
 
-🌐 [**Visit Portfolio**](https://vishwa-portfolio.vercel.app) *(update with your deployed URL)*
+🌐 [**Visit Portfolio**](https://portfolio-rho-murex-17.vercel.app/)
 
 ---
 
@@ -69,10 +69,10 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/vishwa-madusanka/modern-portfolio.git
+git clone https://github.com/vishwa-madusanka/Portfolio.git
 
 # Go to the project directory
-cd modern-portfolio
+cd Portfolio
 
 # Install dependencies
 npm install
@@ -96,7 +96,7 @@ npm run lint    # Run ESLint
 ## 📁 Project Structure
 
 ```
-modern-portfolio/
+Portfolio/
 ├── app/                    # Next.js App Router
 │   ├── layout.tsx          # Root layout with theme provider
 │   └── page.tsx            # Main page
@@ -127,7 +127,7 @@ modern-portfolio/
 
 ## 📄 CV Download
 
-Place your CV at `public/cv.pdf` to enable the **Download CV** button on the hero section. It will be served as `Vishwa_Wijekoon_CV.pdf` when downloaded.
+Place your CV at `public/cv.pdf` to enable the **Download CV** button on the hero section. It will be served as `Vishwa_Madusanka_CV.pdf` when downloaded.
 
 ---
 
@@ -139,7 +139,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 About Me
 
-**Vishwa Wijekoon** — Software Engineering undergraduate at SLIIT, Sri Lanka.
+**Vishwa Madusanka** — Software Engineering undergraduate at SLIIT, Sri Lanka.
 Building distributed systems, shipping mobile apps, and occasionally playing the violin.
 
 * 🐙 GitHub: [@vishwa-madusanka](https://github.com/vishwa-madusanka)
